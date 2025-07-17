@@ -1,0 +1,13 @@
+inner join
+2nd largest salry
+3 inbuilt security role 
+filter and selection clause
+query log level
+report works inviduially not working in dashboard'
+how linked report works Actionable intelligence
+how to analyse the report
+RPD layers
+phyical join and complex join
+level based measures
+
+
